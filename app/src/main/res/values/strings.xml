@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">WordFlux</string>
+    <string name="accessibility_service_description">Enables real-time text correction and flow assistance by monitoring text changes in other applications.</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
